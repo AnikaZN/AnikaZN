@@ -18,7 +18,7 @@ My name is Anika, pronounced like "Anakin" from _Star Wars_.
 
 ✨ I'm looking for help with:
 
-- Breaking into my very first "big kid" job in tech!
+- Getting hired! I'm super interested in Data Analyst and Data Engineer roles at small or mid-size companies, especially if you're in healthcare!
 
 ✨ Ask me about:
 
