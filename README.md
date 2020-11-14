@@ -1,4 +1,38 @@
-### Hi there 👋
+### Welcome to my GitHub!
+
+My name is Anika, pronounced like "Anakin" from _Star Wars_.
+
+✨ I'm currently working on:
+
+- A fun game that I'm calling [Audiophile](https://github.com/AnikaZN/Audiophile), built completely in Python.
+
+✨ I'm currently learning:
+
+- The AWS tech stack
+
+- The finer details of Data Engineering
+
+✨ I'm looking to collaborate on:
+
+- Full-Stack projects that need data support!
+
+✨ I'm looking for help with:
+
+- Breaking into my very first "big kid" job in tech!
+
+✨ Ask me about:
+
+- Data Ethics
+
+- The intersection between healthcare and data
+
+- My dogs!
+
+✨ How to reach me:
+
+- [My Site!](https://anikanacey.wixsite.com/website)
+
+✨ My pronouns are she/her/hers
 
 <!--
 **AnikaZN/AnikaZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
